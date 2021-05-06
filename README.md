@@ -5,6 +5,7 @@ Play the game using your mouse cursor
 Controls:
 
 R - Restart the game
+
 K - Show statistics
 
 https://mrphdanny.github.io/Ascend-The-Dungeon-Game/
