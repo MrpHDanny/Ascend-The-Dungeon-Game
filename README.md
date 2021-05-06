@@ -1,8 +1,10 @@
 # Ascend The Dungeon
 
-Play the game using your mouse cursor
+A casual game where your goal is to protect the bat from harmful objects.
 
 Controls:
+
+Mouse - Push away harmful objects
 
 R - Restart the game
 
